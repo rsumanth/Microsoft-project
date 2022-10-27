@@ -7,7 +7,7 @@ IDE: VS-Code
 
 Industry : LIfestyle
 
-Project Title : Trave; website
+Project Title : Travel website
 
 Problem Statement/Opportunity :This application was created to give users the finest travel experiences possible. In order to give a search platform where a visitor may select their tour destinations based on their preferences, I developed a tours and travel management system. Create a website with pages for the home page, services, about us, login, register, and contact us.
 
